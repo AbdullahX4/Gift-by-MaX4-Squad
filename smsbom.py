@@ -87,9 +87,9 @@ print(logo2)
 x="XAK"
 user=str(input(f"\n\n{w}USERNAME {r}=>{y} "))
 pas=str(input(f"{w}PASSWORD {r}=>{y} "))
-rp= 'Rifat '
-x = 'Ritu'
-if 'Rifat'==user and 'Ritu '==pas:
+rp= 'Abdullah'
+x = 'MaX4'
+if 'Abdullah'==user and 'MaX4'==pas:
         Axak(g+"\n\n\t\t      LOGIN SUCCESSFUL  ")
 
 else:
